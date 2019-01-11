@@ -7,7 +7,7 @@ https://stanfordnlp.github.io/CoreNLP/download.html
 
 And the python politeness package which also requires the nltk package as well as the nltk packages.
 Easily download the nltk packages through python ide-
-  > import nltk
+  > import nltk \
   nltk.download()
 
 # QtGUI
