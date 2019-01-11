@@ -13,3 +13,8 @@ Easily download the nltk packages through python ide-
 # QtGUI
 
 allows for a statement to be analyzed using the python politeness package
+
+# Demo.ipynb
+
+jupyter notebook outlining the methods for reading in a csv of Stack Overflow comments and analyzes them for their level of politeness and save the data to a csv file.
+
