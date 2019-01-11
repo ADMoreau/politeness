@@ -18,3 +18,6 @@ allows for a statement to be analyzed using the python politeness package
 
 jupyter notebook outlining the methods for reading in a csv of Stack Overflow comments and analyzes them for their level of politeness and save the data to a csv file.
 
+# analysis_script.py
+
+Full python script encapsulating the demo.py methods into a single file.
